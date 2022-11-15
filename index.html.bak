@@ -42,6 +42,7 @@
         <img src="assets/img/Emoji11.gif" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Soumyadeep</a></h1>
 		<h1 class="text-light"><a href="index.html">Brishtir-Bishwas</a></h1>
+		<p class="text-light"><a href="index.html">"   Brishtir-Bishwas"</a></p>
         <div class="social-links mt-3 text-center">
 		  <a href="https://www.linkedin.com/in/soumyadeep-dasgupta-5b901597/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           <a href="https://www.youtube.com/c/BrishtirBishwas" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
